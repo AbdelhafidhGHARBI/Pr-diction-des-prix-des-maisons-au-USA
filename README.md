@@ -1,4 +1,4 @@
-# Pr-diction-des-prix-des-maisons-au-USA
+# Prédiction-des-prix-des-maisons-au-USA
 Projet Machine Learning avec Jupyter Notebook
 
 Application de plusieurs modéles avec illustration des différents métrique:
